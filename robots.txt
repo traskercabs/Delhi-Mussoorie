@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://traskercabs.github.io/Delhi-Mussoorie/sitemap.xml
+Sitemap: https://delhi-mussoorie.traskercabs.com/sitemap.xml
